@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK DevOps</h1>
-<h1 align="center"> KK FUNDA</h1>
+<h1 align="center">Welcome to Jagadhish vajjala </h1>
+<h1 align="center"> Captain_jack</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,13 +34,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		KK FUNDA, 
-		Martha Halli, Banglore,
-		Bangalore,
-		+91-9676831734,+91-9676831734
-		kkeducationblr@gmail.com
+		jagadhish vajjala,
+                hyderabad,
+                gachibowli,
+                jagadhish6281@gmail.com
 		<br>
-		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
+		<a href="jagadhish6281@gmail.com">Mail to KK FUNDA</a>
 	</span>
 </div>
 <hr>
